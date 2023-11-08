@@ -100,4 +100,4 @@ So I would Suggest just go ahead and move the app to a https environment and it 
 
 ## Creator
 
-This component has been created by [Md Dilshad Alam](https://github.com/webformulator)
+[Mohammad Dilshad Alam](https://github.com/absurdengineer) created and maintains this component.
